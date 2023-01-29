@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NoahRothgaber
 - 👀 I’m interested in software development, music, and video games.
-- 🌱 I’m currently learning data structures, and C++
+- 🌱 I’m currently learning Assembly Language, Circuit Analysis, and C#
 - 💞️ I’m looking to collaborate on anything.
 
 <!---
