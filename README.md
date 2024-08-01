@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NoahRothgaber
 - 👀 I’m interested in software development, music, and video games.
-- 🌱 I’m currently studying OCAML, Arduino, and Python. 
+- 🌱 I’m currently studying Machine Learning, Operating Systems, and Python
 - 💞️ I’m looking to be the best I can be.
 
 <!---
